@@ -1,4 +1,4 @@
-<img width="1107" height="639" alt="image" src="https://github.com/user-attachments/assets/1b148fd4-67b8-499c-bc8b-c7e1fd7c78f8" /># Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
@@ -459,3 +459,4 @@ As AI continues to evolve, responsible development and ethical practices will be
 
 
 # Result
+Generative AI is at the forefront of innovation, promising to reshape various industries by leveraging advanced models like transformers while addressing challenges of scaling and ethics.
